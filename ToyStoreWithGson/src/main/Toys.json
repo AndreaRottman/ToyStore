@@ -1,0 +1,50 @@
+{
+  "toys": [{
+    "name": "Blue Bonnet Bunny",
+    "toyType": "S",
+    "brand": "ToysRUS",
+    "price": 20.50,
+    "qty": 50
+  },
+  {
+    "name": "Freddy Fazbear Plushie",
+    "toyType": "M",
+    "brand": "Steel Wool",
+    "price": 30.00,
+    "qty": 100
+  }],
+  "dolls": [{
+    "name": "Tennis Barbie",
+    "toyType": "D",
+    "brand": "Barbie",
+    "price": 10.99,
+    "qty": 20,
+    "clothes": "black t-shirt with green stripes, green shorts",
+    "hair": "blond",
+    "eyes": "blue"
+  }],
+  "vehicles": [{
+    "name": "Sherman Tank",
+    "toyType": "C",
+    "brand": "DIYTankBoys",
+    "price": 40.00,
+    "qty": 100,
+    "color": "brown",
+    "type": "tank",
+    "diyModel": "T",
+    "remote": "F"
+  }],
+  "airVehicles": [{
+    "name": "Lucky's Helicopter",
+    "toyType": "A",
+    "brand": "AirToys.Co",
+    "price": 60.00,
+    "qty": 1000,
+    "color": "blue",
+    "type": "Helicopter",
+    "diyModel": "F",
+    "remote": "T",
+    "length": 20.00,
+    "wingspan": 0
+  }]
+}
